@@ -2,14 +2,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Welcome+to+my+GitHub+Profile!;Building+and+learning+every+day.;Thanks+for+visiting!+%F0%9F%9A%80" alt="Typing animation" />
 </p>
+
 ## 📊 Language Usage Across My Repositories
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohene-Nat&layout=compact&langs_count=10&theme=radical" alt="Top languages used by Ohene-Nat" />
 </p>
+
 ## 🧰 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,c,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,git,github,postgres" alt="Tech stack icons" />
 </p>
+
 ## 🌐 Connect With Me
 <p>
   <a href="https://github.com/Ohene-Nat" target="_blank" rel="noreferrer">
