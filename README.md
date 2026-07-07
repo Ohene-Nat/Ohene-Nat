@@ -13,7 +13,7 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,c,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,cpp,git,github,postgres" alt="Tech stack icons" />
 </p>
 
 ## 🌐 Connect With Me
@@ -22,7 +22,7 @@
   <a href="https://github.com/Ohene-Nat" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ohene-nat/" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/nathaniel-ansah-mano" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48" />
   </a>
   <a href="https://x.com/ohene_nat" target="_blank" rel="noreferrer">
