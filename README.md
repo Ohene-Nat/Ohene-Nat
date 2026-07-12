@@ -30,15 +30,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ohene-Nat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohene-Nat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -57,46 +48,39 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ohene-Nat&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
 
 ---
+## 📊 GitHub Stats
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohene-Nat&theme=tokyo-night"/>
-</p>
+![](https://komarev.com/ghpvc/?username=Ohene-Nat&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+<h2>🌐 Connect with me</h2>
+
+<p align="left">
+  <a href="https://github.com/Ohene-Nat">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
-  
-  <a href="https://github.com/Ohene-Nat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+
+  <a href="https://linkedin.com/in/www.linkedin.com/in/nathaniel-ansah-mano">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  
+
   <a href="mailto:ansahnat56@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
-  
-  <a href="https://x.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X (Twitter)"/>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
-  
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
   </a>
 </p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Ohene-Nat&label=Profile%20Views&color=0e75b6&style=flat)
