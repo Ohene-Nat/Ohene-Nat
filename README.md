@@ -11,7 +11,7 @@
 - 💻 Interested in **Full Stack Web Development**
 - 📱 Building Android Apps with Java
 - 🤝 Open to collaboration on Open Source Projects
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **ansahnat56@gmail.com**
 
 ---
 
@@ -49,6 +49,13 @@
 </p>
 
 ---
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Ohene-Nat?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -68,20 +75,28 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://github.com/Ohene-Nat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  
+  <a href="mailto:ansahnat56@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+  </a>
+  
+  <a href="https://x.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X (Twitter)"/>
+  </a>
+  
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+  </a>
 </p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Ohene-Nat&label=Profile%20Views&color=0e75b6&style=flat)
