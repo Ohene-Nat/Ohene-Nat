@@ -7,10 +7,10 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 🌱 Currently learning **React Native, Express.js, PostgreSQL**
-- 💻 Interested in **Full Stack Web Development**
-- 📱 Building Android Apps with Java
-- 🤝 Open to collaboration on Open Source Projects
+- 🚀 Building projects to strengthen my software engineering and problem-solving skills
+- 🤝 Open to collaborating on open-source projects and innovative ideas
+- 📚 Always learning new technologies and best practices
+- ⚡ Fun fact: I enjoy turning challenging ideas into functional applications.
 - 📫 Reach me: **ansahnat56@gmail.com**
 
 ---
@@ -57,8 +57,6 @@
 ---
 
 ## 🌐 Connect with Me
-
-<h2>🌐 Connect with me</h2>
 
 <p align="left">
   <a href="https://github.com/Ohene-Nat">
