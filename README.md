@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ohene Nat 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Welcome+to+my+GitHub+Profile!;Building+and+learning+every+day.;Always+Learning+New+Technologies.;Thanks+for+visiting!+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Welcome+to+my+GitHub+Profile!;Building+and+learning+every+day.;Always+Learning+New+Technologie s.;Thanks+for+visiting!+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I enjoy turning challenging ideas into functional applications.
 - 📫 Reach me: **ansahnat56@gmail.com**
 
-----
+---
 
 ## 🛠️ Tech Stack
 
